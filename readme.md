@@ -2,28 +2,27 @@
 
 CSS & JS concatenation and minification
 
-<p>
-        - Assets (minified)
-        
-          assets/
-          ├── css
-          │   ├── main.css
-          │   └── main.min.css
-          └── js
-              ├── main.js
-              └── main.min.js
-      </p>
+### Assets (minified)
 
-      <p>
-        - Resources
+```    
+assets/
+├── css
+│   ├── main.css
+│   └── main.min.css
+└── js
+    ├── main.js
+    └── main.min.js
+```
 
-        src/
-        ├── css
-        │   ├── bootstrap.css
-        │   └── styles.css
-        └── js
-            ├── app.js
-            ├── bootstrap.js
-            └── jquery.js
+### Resources
 
-      </p>
+```
+src/
+├── css
+│   ├── bootstrap.css
+│   └── styles.css
+└── js
+    ├── app.js
+    ├── bootstrap.js
+    └── jquery.js
+```
